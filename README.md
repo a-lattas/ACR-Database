@@ -30,4 +30,4 @@ Also, because a database has more uses than just queries, we also created the fo
 1. A T-SQL Application that prints line by line information about the cars of ACR.
 
 
-The above Project was implemented by Lattas Alexander and Fotis Katsigiannis with the guidance of the Professor Mr. Damianos Chatziantoniou.
+The above Project was designed and implemented by Lattas Alexander and Fotis Katsigiannis with the guidance of the Professor Mr. Damianos Chatziantoniou.
