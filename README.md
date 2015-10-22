@@ -1,5 +1,4 @@
 # ACR-Database
-Athens Car Rental Database
 
 Athens Car Rental is a car renting firm that needs a database from scratch. It has a car fleet in different regions of Athens which rents B2C or B2B. It needs the database to store important information about its cars, its customers, branches, rentals and payments.
 
